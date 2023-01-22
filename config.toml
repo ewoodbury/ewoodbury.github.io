@@ -1,0 +1,16 @@
+baseURL = "https://ewoodbury.com/"
+title = "Ethan Woodbury"
+copyright = "Copyright © 2022, Ethan Woodbury"
+languageCode = "en-US"
+theme = "etch"
+
+[params]
+  Author = "Ethan Woodbury"
+  Description = "Ethan Woodbury's Website"
+  dark = "off"
+  highlight = true
+
+  # Contact/social-network identifiers for social icons
+  EmailAddress = "ethwoodbury@gmail.com"
+  GitHubUser = "ewoodbury"
+  TwitterUser = "etwoodbury"
