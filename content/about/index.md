@@ -8,7 +8,7 @@ I work on Tesla's Cell Manufacturing team, where I lead a team that builds softw
 
 I previously studied Chemical Engineering at UC Berkeley. I live in the Bay Area, where I was also born and raised.
 
-{{< figure src="/profile.jpg" >}}
+{{< figure src="https://ewoodbury.github.io/ewoodbury.com/profile.jpg" >}}
 
 My technical interests include databases, backend systems, and data visualization. I enjoy thinking about how data tools can enable organizations to function more optimally.
 
